@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE/editor generated files
+.vs/
+.vscode/*.log
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local packages and archives larger than GitHub's normal file limit
+Packages/*.tgz
+*.rar
+
+# Unity crash reports
+sysinfo.txt
+
